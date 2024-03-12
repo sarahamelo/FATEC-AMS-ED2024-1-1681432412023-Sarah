@@ -10,4 +10,5 @@ int main(){
   int valor2 = 27;
 
   soma(valor1, valor2);
+  return 0;
 }
