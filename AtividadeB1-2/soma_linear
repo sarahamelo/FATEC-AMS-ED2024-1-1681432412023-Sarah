@@ -6,4 +6,5 @@ int main(){
 
   int soma = valor1 + valor2;
   printf("A soma é: %d", soma);
+  return 0;
 }
