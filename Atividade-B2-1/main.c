@@ -6,7 +6,7 @@
 /*___________________________________________________________________________________*/
 /*                                                                                   */
 /*   Fatec - São Caetano Do Sul                Estrutura de Dados Profº Veríssimo    */
-/*                          Sarah Melo & Bianca Soares                               */
+/*                          Sarah Melo & Bianca Soares e Ágata Cecília               */
 /*                    Objetivo: Calculadora HP12C em C                               */
 /*                    Paradigma: Usar Estrutura de pilha e memórias X,Y,Z e T        */
 /*                                                                                   */
