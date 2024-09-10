@@ -97,6 +97,6 @@ Cada algoritmo está em seu próprio diretório com um arquivo `*.c` corresponde
 ### Exemplo de Compilação e Execução
 
 ```bash
-gcc -o busca_linear busca_linear.c
+gcc -o busca_linear buscaLinear.c
 ./buscaLinear
 ```
