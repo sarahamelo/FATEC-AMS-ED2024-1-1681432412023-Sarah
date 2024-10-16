@@ -1,0 +1,6 @@
+1. Otimização no algoritmo Bubble Sort:
+   Adicionada uma verificação para terminar a ordenação antecipadamente se o array já estiver ordenado, economizando tempo de execução.
+
+2. Sugestão de futuras melhorias:
+   - Modularizar o código em arquivos separados para facilitar a manutenção e leitura.
+   - Melhorar a interação com o usuário para indicar que o array está sendo ordenado.
